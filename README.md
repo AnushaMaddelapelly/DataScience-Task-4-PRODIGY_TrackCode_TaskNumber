@@ -9,7 +9,7 @@ Analyze and visualize sentiment patterns in Twitter training data to understand 
 
 DATASET:
 
-The dataset used for this Project is  .This dataset consists of Twitter data.
+The dataset used for this Project is https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis.This dataset consists of Twitter data.
 
 Steps followed:
 
